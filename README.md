@@ -1,1 +1,2 @@
-# flask_PostgreSQL_23_Display_Popups_data_on_mouse_hover_using_jQuery_Ajax
+#### flask_PostgreSQL_23_Display_Popups_data_on_mouse_hover_using_jQuery_Ajax
+- flask 網頁顯示postgresql資料表格當移動至圖片時產生Mouse Over藉由jQuery Ajax 抓取該筆紀錄的明細資料
